@@ -23,6 +23,7 @@ Tech: Rust • Tokio • Axum • SQLx • GCP • Kubernetes • Terraform • 
 
 Let's build systems that are fast, correct, and actually matter.
 
-[LinkedIn](www.linkedin.com/in/brian-thuo-gachau) • [Email](mailto:thuogachau@gmail.com)
+[LinkedIn → Brian Thuo Gachau](https://www.linkedin.com/in/brian-thuo-gachau)  
+[Email → thuogachau@gmail.com](mailto:thuogachau@gmail.com)
 
 Ready when you are.
