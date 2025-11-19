@@ -1,16 +1,28 @@
-## Hi there 👋
+# Rust Backend Engineer (in training)  
+6+ years IT Ops, management and Cloud Ops | Currently @ Innovations for Poverty Action
 
-<!--
-**ThuoBrian/ThuoBrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+From keeping production systems alive 24/7 to rewriting them in safe, blazing-fast Rust.
 
-Here are some ideas to get you started:
+What I do today:
+- Automate everything: CI/CD, observability, deployments
+- Help researchers and governments fight poverty with reliable tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I bring from 6+ years in Ops:
+- Zero-downtime deployments
+- Incident response muscle memory
+- “If it’s manual twice, it gets scripted” mindset
+- Deep understanding of how systems really break
+
+Actively shipping Rust weekly • Open-source contributor • Writing about the Ops → Rust journey
+
+Looking for:
+Junior–Mid Level Rust Backend / Systems / Infrastructure Engineer roles  
+Remote-first • Available from Q1 2026
+
+Tech: Rust • Tokio • Axum • SQLx • GCP • Kubernetes • Terraform • Docker •
+
+Let's build systems that are fast, correct, and actually matter.
+
+[LinkedIn](www.linkedin.com/in/brian-thuo-gachau) • [Email](mailto:thuogachau@gmail.com)
+
+Ready when you are.
