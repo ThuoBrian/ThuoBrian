@@ -1,29 +1,33 @@
-# Rust Backend Engineer (in training)  
-6+ years IT Ops, management and Cloud Ops | Currently @ Innovations for Poverty Action
+# Brian Gachau Thuo  
+**Rust Backend Engineer (in training) | 6+ years Production Systems & Cloud Ops**  
+Currently Technology Associate @ Innovations for Poverty Action (Kenya)
 
-From keeping production systems alive 24/7 to rewriting them in safe, blazing-fast Rust.
+From keeping 100+ mission-critical systems alive 24/7 to rebuilding them in memory-safe, blazing-fast Rust.
 
-What I do today:
-- Automate everything: CI/CD, observability, deployments
-- Help researchers and governments fight poverty with reliable tech
+### What my Ops background gives me that most junior Rust devs don’t have:
+- Zero-downtime deployment discipline
+- Incident response reflexes (on-call muscle memory)
+- Deep knowledge of how distributed systems actually fail in production
+- “If it’s repeated twice, automate it” mindset baked in since 2018
 
-What I bring from 6+ years in Ops:
-- Zero-downtime deployments
-- Incident response muscle memory
-- “If it’s manual twice, it gets scripted” mindset
-- Deep understanding of how systems really break
+### What I’m doing with Rust right now (shipping weekly):
+- Building production-grade backends with **Axum + SQLx + Tokio**
+- Rewriting internal IPA tools (inventory, workflows, monitoring) in Rust
+- Async microservices, WebSocket services, secure file-processing CLIs
+- All projects public, tested, containerized, with clean READMEs
 
-Actively shipping Rust weekly • Open-source contributor • Writing about the Ops → Rust journey
+### Current Tech Stack
+**Rust** • Tokio • Axum • SQLx • serde • tracing  
+**Infra** • Docker • Kubernetes • Terraform • Azure • Linux • CI/CD  
+**Databases** • PostgreSQL • SQLite • Redis
 
-Looking for:
-Junior–Mid Level Rust Backend / Systems / Infrastructure Engineer roles  
-Remote-first • Available from Q1 2026
+### Looking for
+**Junior to Mid-Level Rust Backend / Systems / Infrastructure Engineer** roles  
+Remote-first preferred • Available full-time from **Q1 2026**
 
-Tech: Rust • Tokio • Axum • SQLx • GCP • Kubernetes • Terraform • Docker •
+If you need someone who already thinks like a senior engineer but writes Rust like someone hungry to prove it — let’s talk.
 
-Let's build systems that are fast, correct, and actually matter.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Thuo%20Gachau-blue)](https://www.linkedin.com/in/brian-thuo-gachau)  
+[![Email](https://img.shields.io/badge/Email-thuogachau@gmail.com-green)](mailto:thuogachau@gmail.com)
 
-[LinkedIn → Brian Thuo Gachau](https://www.linkedin.com/in/brian-thuo-gachau)  
-[Email → thuogachau@gmail.com](mailto:thuogachau@gmail.com)
-
-Ready when you are.
+Open to chats, pair-programming interviews, or take-home projects. Ready when you are 🚀
