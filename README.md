@@ -4,7 +4,7 @@ Currently Technology Associate @ Innovations for Poverty Action (Kenya)
 
 From keeping 100+ mission-critical systems alive 24/7 to rebuilding them in memory-safe, blazing-fast Rust.
 
-### What my Ops background gives me that most junior Rust devs don’t have:
+### What my Ops background gives me:
 - Zero-downtime deployment discipline
 - Incident response reflexes (on-call muscle memory)
 - Deep knowledge of how distributed systems actually fail in production
