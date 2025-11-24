@@ -1,4 +1,4 @@
-# Brian Gachau Thuo — Rust Backend Engineer (Honing Rust in the Age of AI)
+# Brian Gachau Thuo — Rust Backend Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Thuo%20Gachau-blue)](https://www.linkedin.com/in/brian-thuo-gachau) [![Email](https://img.shields.io/badge/Email-thuogachau@gmail.com-green)](mailto:thuogachau@gmail.com)
 
