@@ -1,36 +1,33 @@
-# Brian Gachau Thuo — Rust Backend Engineer
+# Hi, I'm Brian 👋
+
+I'm a backend engineer learning Rust and exploring how it intersects with AI and infrastructure. I enjoy building reliable systems and automating away repetitive work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brian%20Thuo%20Gachau-blue)](https://www.linkedin.com/in/brian-thuo-gachau) [![Email](https://img.shields.io/badge/Email-thuogachau@gmail.com-green)](mailto:thuogachau@gmail.com)
 
-I build reliable, memory-safe systems in Rust and I'm actively refining my Rust craft with a focus on practical AI integration. I bring production systems experience and on-call discipline, and I'm exploring how Rust can power efficient, trustworthy AI-backed services and developer tooling.
+## What I'm working on
 
-## Quick facts
-- **Experience:** 6+ years in production systems & cloud operations
-- **Current role:** Technology Associate @ Innovations for Poverty Action (Kenya)
-- **Focus:** Rust backend services, async systems, infra-as-code, and lightweight AI integrations
-- **Availability:** Open to junior → mid-level Rust backend / systems roles (available full-time from Q1 2026)
+Currently a Technology Associate at Innovations for Poverty Action in Kenya, where I work on production systems and cloud operations. In my own time, I'm deepening my Rust knowledge by building small projects that combine backend services with practical AI features.
 
-## Tech stack (high level)
-- **Languages:** Rust, Python
-- **Rust stack:** Tokio, Axum, SQLx, serde, tracing
-- **AI & tooling:** experimenting with LLM APIs, embeddings, and Rust-native inference bindings; using AI to speed development and testing workflows
-- **Infra & tooling:** Docker, Kubernetes, Terraform, Azure, CI/CD pipelines
-- **Datastores:** PostgreSQL, SQLite, Redis
+Some things I'm exploring:
+- Async web services with Tokio and Axum
+- Lightweight inference and embedding pipelines
+- Developer tooling and CLI applications
+- Infrastructure automation with Terraform and Kubernetes
 
-## What I bring to a team
-- Production mindset: zero-downtime deployments, incident response, and observable systems
-- Systems-first thinking: defensive design to reduce blast radius and recovery time
-- Automation-first: if it repeats twice, automate it — now exploring AI-assisted automation for code gen and testing
-- Pragmatic integration of AI: focus on composability, cost, and safety when adding AI features
+## Technologies I work with
 
-## Learning projects & interests (AI + Rust)
-- Prototyping small inference services and embedding pipelines in Rust for low-latency features
-- Building CLIs and developer tools that use AI to automate repetitive tasks and improve DX
-- Rewriting legacy tooling to be memory-safe, faster, and easier to operate in production
-- Experimenting with AI-assisted testing, fuzzing, and documentation generation for Rust codebases
+**Languages:** Rust, Python  
+**Backend:** Tokio, Axum, SQLx, serde  
+**Data:** PostgreSQL, SQLite, Redis  
+**Infrastructure:** Docker, Kubernetes, Terraform, Azure, CI/CD  
+**AI experimentation:** LLM APIs, embeddings, Rust inference bindings
 
-## Hiring & contact
-- Email: <thuogachau@gmail.com>
-- LinkedIn: https://www.linkedin.com/in/brian-thuo-gachau
+## What I value
 
-I'm interested in roles where I can continue to sharpen Rust skills and help teams adopt safe, performant patterns for building AI-backed services. If you have a role that needs someone pragmatic and curious about Rust + AI, let's talk.
+I care about systems that are observable, maintainable, and safe to operate. I believe in automating repetitive tasks, writing defensive code, and learning from production incidents. I'm still early in my Rust journey but I'm committed to writing better software every day.
+
+## Open to opportunities
+
+I'm looking for junior to mid-level Rust backend or systems engineering roles starting Q1 2026. If you're building something interesting with Rust, especially at the intersection of infrastructure and AI, I'd love to connect.
+
+**Contact:** thuogachau@gmail.com or [LinkedIn](https://www.linkedin.com/in/brian-thuo-gachau)
