@@ -50,16 +50,6 @@ Production-ready Kubernetes and Terraform configurations.
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrianThuo&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianThuo&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BrianThuo&theme=tokyonight)
-
----
-
 ## Experience
 
 ### Technology Associate
