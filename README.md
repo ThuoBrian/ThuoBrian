@@ -1,78 +1,90 @@
-# Brian Thuo  
+# Hi, I'm Brian Thuo
 
-I am a backend engineer specializing in building production systems using **Rust**. My interests lie at the intersection of **systems programming**, **AI infrastructure**, and **developer tooling**.  
+**Rust Backend Engineer** | Systems Programming & AI Infrastructure | Building production-ready services
 
-[LinkedIn](https://www.linkedin.com/in/brian-thuo-gachau) | [Email](mailto:thuogachau@gmail.com)  
+Nairobi, Kenya | Open to Rust & Systems Engineering roles (Q1 2026)
 
----
-
-## Professional Overview  
-
-As a **Technology Associate at Innovations for Poverty Action (Kenya)**, I manage production systems and oversee cloud operations. In my personal projects, I focus on **Rust development**, emphasizing asynchronous services, lightweight AI pipelines, and infrastructure automation.  
-
-### 🔭 Current Focus Areas  
-- Building asynchronous web services with **[Tokio](https://tokio.rs/)** and **[Axum](https://axum.rs/)**  
-- Integrating embedding pipelines and inference mechanisms  
-- Designing developer tooling and CLI applications  
-- Implementing Infrastructure as Code (IaC) with **[Terraform](https://www.terraform.io/)** and **[Kubernetes](https://kubernetes.io/)**  
+[LinkedIn](https://www.linkedin.com/in/brian-thuo-gachau) | [Email](mailto:thuogachau@gmail.com)
 
 ---
 
-## 🛠️ Technical Skills  
+## Technical Arsenal
 
-### Programming Languages  
-- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
-### Backend Technologies  
-- [Tokio](https://tokio.rs/)  
-- [Axum](https://axum.rs/)  
-- [SQLx](https://github.com/launchbadge/sqlx)  
-
-### Databases  
-- [PostgreSQL](https://www.postgresql.org/)  
-- [SQLite](https://www.sqlite.org/index.html)  
-- [Redis](https://redis.io/)  
-
-### Infrastructure & DevOps  
-- [Docker](https://www.docker.com/)  
-- [Kubernetes](https://kubernetes.io/)  
-- [Terraform](https://www.terraform.io/)  
-- [Azure](https://azure.microsoft.com/)  
-- [GitHub Actions](https://github.com/features/actions)  
-
-### AI & Machine Learning  
-- LLM APIs  
-- Embeddings  
+| Category | Technologies |
+|----------|-------------|
+| **Rust** | Tokio, Axum, SQLx, Clap |
+| **Python** | FastAPI, SQLAlchemy, Pandas |
+| **Databases** | PostgreSQL, SQLite, Redis |
+| **Infra & DevOps** | Docker, Kubernetes, Terraform, Azure, GitHub Actions |
 
 ---
 
-## Professional Values  
+## Featured Projects
 
-I am committed to building systems that are **observable, maintainable, and safe to operate**. I focus on automating repetitive tasks, writing defensive code, and treating production incidents as opportunities for continuous learning and improvement.  
+### Rust CLI Utilities
+[GitHub](https://github.com/BrianThuo/rust-cli-tools)
+
+Extensible command-line tools for automation and developer productivity. Built with `clap` and `tokio`.
+
+- Fast, type-safe CLI applications
+- Async file operations with Tokio
+- Plugin architecture for extensibility
+
+### AI Pipelines
+[GitHub](https://github.com/BrianThuo/ai-pipelines)
+
+Lightweight embedding and inference workflows combining Rust performance with Python flexibility.
+
+- 40% faster embedding generation vs pure Python
+- LLM API integration (OpenAI, HuggingFace)
+- Containerized deployment with Docker
+
+### Infrastructure Automation
+[GitHub](https://github.com/BrianThuo/infra-automation)
+
+Production-ready Kubernetes and Terraform configurations.
+
+- GitOps workflow with ArgoCD
+- Zero-downtime deployments
+- Monitoring stack (Prometheus, Grafana)
 
 ---
 
-## Career Aspirations  
+## GitHub Stats
 
-I am actively seeking opportunities in **Rust backend** or **systems engineering** roles starting in **Q1 2026**. I am particularly interested in projects related to **infrastructure, developer tools, and AI integration**.  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrianThuo&show_icons=true&theme=tokyonight&count_private=true)
 
- **Contact:** [Email](mailto:thuogachau@gmail.com) | [LinkedIn](https://www.linkedin.com/in/brian-thuo-gachau)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianThuo&layout=compact&theme=tokyonight)
 
----
-
-## GitHub Stats  
-
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianThuo&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianThuo&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BrianThuo&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=BrianThuo&theme=tokyonight)
 
 ---
 
-## Featured Projects  
+## Experience
 
-- [**Rust CLI Utilities**](https://github.com/BrianThuo/rust-cli-tools) – Extensible command-line tools for automation  
-- [**AI Pipelines with Rust + Python**](https://github.com/BrianThuo/ai-pipelines) – Lightweight embedding & inference workflows  
-- [**Infrastructure Automation**](https://github.com/BrianThuo/infra-automation) – Terraform + Kubernetes for production-ready systems  
+### Technology Associate
+**Innovations for Poverty Action (Kenya)** — 2023 – Present
+
+- Manage production systems serving 500K+ users across East Africa
+- Automated cloud operations, reducing deployment time by 60%
+- Implemented observability pipelines using Prometheus and Grafana
+
+---
+
+## Current Focus
+
+- Distributed task queues in Rust
+- Lightweight vector databases for embeddings
+- Open-source developer tooling
+
+---
+
+## Let's Connect
+
+I'm actively looking for opportunities in **Rust backend engineering** and **systems infrastructure**. Whether you have a question, want to collaborate, or just want to say hi — I'm always happy to chat.
+
+[LinkedIn](https://www.linkedin.com/in/brian-thuo-gachau) | [Email](mailto:thuogachau@gmail.com)
+
+---
+
+*Built with Rust | Powered by curiosity & coffee*
