@@ -1,6 +1,6 @@
 # Hi, Thuo here.
 
-**Rust Backend Engineer** | Systems Programming  
+**Rust Backend Engineer** | Systems Programming & Infrastructure
 Nairobi, Kenya | Open to Rust & Systems Engineering roles (Q1 2026)
 
 [LinkedIn](https://www.linkedin.com/in/brian-thuo-gachau) | [Email](mailto:thuogachau@gmail.com)
