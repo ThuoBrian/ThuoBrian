@@ -1,80 +1,57 @@
-# Hi, I'm Brian Thuo
+# Hi, Thuo here.
 
-**Rust Backend Engineer** | Systems Programming & AI Infrastructure | Building production-ready services
-
+**Rust Backend Engineer** | Systems Programming  
 Nairobi, Kenya | Open to Rust & Systems Engineering roles (Q1 2026)
 
 [LinkedIn](https://www.linkedin.com/in/brian-thuo-gachau) | [Email](mailto:thuogachau@gmail.com)
 
 ---
 
-## Technical Arsenal
+## Skills
 
-| Category | Technologies |
-|----------|-------------|
-| **Rust** | Tokio, Axum, SQLx, Clap |
-| **Python** | FastAPI, SQLAlchemy, Pandas |
-| **Databases** | PostgreSQL, SQLite, Redis |
-| **Infra & DevOps** | Docker, Kubernetes, Terraform, Azure, GitHub Actions |
+![Rust](https://img.shields.io/badge/Rust-orange?logo=rust&logoColor=white)  
+![Tokio](https://img.shields.io/badge/Tokio-blue?logo=rust&logoColor=white)  
+![Axum](https://img.shields.io/badge/Axum-green?logo=rust&logoColor=white)  
+![SQLx](https://img.shields.io/badge/SQLx-lightgrey?logo=postgresql&logoColor=white)  
+![Clap](https://img.shields.io/badge/Clap-yellow?logo=rust&logoColor=white)  
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-teal?logo=fastapi&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)  
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
 
 ---
 
-## Featured Projects
+## Projects
 
-### Rust CLI Utilities
-[GitHub](https://github.com/BrianThuo/rust-cli-tools)
-
-Extensible command-line tools for automation and developer productivity. Built with `clap` and `tokio`.
-
-- Fast, type-safe CLI applications
-- Async file operations with Tokio
-- Plugin architecture for extensibility
-
-### AI Pipelines
-[GitHub](https://github.com/BrianThuo/ai-pipelines)
-
-Lightweight embedding and inference workflows combining Rust performance with Python flexibility.
-
-- 40% faster embedding generation vs pure Python
-- LLM API integration (OpenAI, HuggingFace)
-- Containerized deployment with Docker
-
-### Infrastructure Automation
-[GitHub](https://github.com/BrianThuo/infra-automation)
-
-Production-ready Kubernetes and Terraform configurations.
-
-- GitOps workflow with ArgoCD
-- Zero-downtime deployments
-- Monitoring stack (Prometheus, Grafana)
+- **Rust CLI Tools** — automation utilities for developer workflows  
+- **AI Pipelines** — embedding & inference with Rust + Python  
+- **Infra Automation** — Kubernetes & Terraform configs for production
 
 ---
 
 ## Experience
 
-### Technology Associate
-**Innovations for Poverty Action (Kenya)** — 2023 – Present
-
-- Manage production systems serving 100+ users across East Africa
-- Automated cloud operations, reducing deployment time by 60%
-- Automating manual routine tasks
+**Technology Associate, Innovations for Poverty Action (Kenya)** – Present  
+- Manage production systems for 100+ users  
+- Automate cloud operations and routine tasks  
 
 ---
 
-## Current Focus
+## Focus
 
-- Distributed task queues in Rust
-- Lightweight vector databases for embeddings
-- Open-source developer tooling
-
----
-
-## Let's Connect
-
-I'm actively looking for opportunities in **Rust backend engineering** and **systems infrastructure**. Whether you have a question, want to collaborate, or just want to say hi — I'm always happy to chat.
-
-[LinkedIn](https://www.linkedin.com/in/brian-thuo-gachau) | [Email](mailto:thuogachau@gmail.com)
+- Rust backend services  
+- Lightweight vector databases  
+- Open-source developer tooling  
 
 ---
 
-*Built with Rust | Powered by curiosity & coffee*
+*Rust first. Reliable systems always.*
