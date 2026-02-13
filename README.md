@@ -55,9 +55,9 @@ Production-ready Kubernetes and Terraform configurations.
 ### Technology Associate
 **Innovations for Poverty Action (Kenya)** — 2023 – Present
 
-- Manage production systems serving 500K+ users across East Africa
+- Manage production systems serving 100+ users across East Africa
 - Automated cloud operations, reducing deployment time by 60%
-- Implemented observability pipelines using Prometheus and Grafana
+- Automating manual routine tasks
 
 ---
 
