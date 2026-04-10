@@ -16,7 +16,7 @@
 
 Backend engineer and IT specialist based in **Nairobi, Kenya**. I build production-grade systems in **Rust** and **Python**, and manage the infrastructure that runs them — from bare-metal to cloud-native.
 
-Currently a **Technology Associate at IPA Kenya**, where I maintain systems serving 500K+ users across East Africa and drive automation across cloud operations.
+Currently a **Technology Associate at IPA Kenya**, where I maintain systems serving 300 users across East Africa and drive automation across cloud operations.
 
 ```rust
 fn brian() -> Engineer {
@@ -148,7 +148,7 @@ Production-ready Kubernetes and Terraform configs with GitOps via ArgoCD, zero-d
 
 **Technology Associate** · [Innovations for Poverty Action (Kenya)](https://www.poverty-action.org/) · 2023 – Present
 
-- Maintain production systems serving **500K+ users** across East Africa
+- Maintain production systems serving **200+ users** across East Africa
 - Automated cloud operations, reducing deployment time by **60%**
 - Built observability pipelines with Prometheus and Grafana; cut MTTR significantly
 - Manage network infrastructure, endpoint security, and IT service delivery
