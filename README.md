@@ -146,7 +146,7 @@ Production-ready Kubernetes and Terraform configs with GitOps via ArgoCD, zero-d
 
 ## Experience
 
-**Technology Associate** · [Innovations for Poverty Action (Kenya)](https://www.poverty-action.org/) · 2023 – Present
+**Technology Associate** · [Innovations for Poverty Action (Kenya)](https://www.poverty-action.org/) · 2018 – Present
 
 - Maintain production systems serving **200+ users** across East Africa
 - Automated cloud operations, reducing deployment time by **60%**
