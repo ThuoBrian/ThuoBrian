@@ -1,8 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Brian+Thuo+%F0%9F%A6%80;Rust+%26+Python+Engineer;IT+Infrastructure+Specialist;Systems+%7C+Backend+%7C+DevOps)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=ThuoBrian&style=flat-square&color=orange" alt="Profile views" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7931E&center=true&vCenter=true&width=600&lines=Brian+Thuo+%F0%9F%A6%80;Rust+%26+Python+Engineer;IT+Infrastructure+%26+Systems)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-thuo-gachau)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thuogachau@gmail.com)
@@ -14,17 +12,19 @@
 
 ## About Me
 
-Backend engineer and IT specialist based in **Nairobi, Kenya**. I build production-grade systems in **Rust** and **Python**, and manage the infrastructure that runs them — from bare-metal to cloud-native.
+Backend and infrastructure engineer in Nairobi, Kenya. I write Rust and Python, and I run the systems they live on.
 
-Currently a **Technology Associate at IPA Kenya**, where I maintain systems serving 300 users across East Africa and drive automation across cloud operations.
+I'm a Technology Associate at IPA Kenya, where I keep the infrastructure working for 200+ staff across East Africa: networks, endpoints, cloud operations, and the monitoring that tells me when something breaks. Most of my public work is where those two sides meet — backend services in Rust, and tooling for the kind of IT problems I deal with day to day.
+
+<!-- Confirm the true headcount and use one figure everywhere. The old README said 300 here and 200+ below; pick the real number. -->
 
 ```rust
 fn brian() -> Engineer {
     Engineer {
         languages: vec!["Rust", "Python", "Bash", "SQL"],
-        focus:     vec!["Backend Systems", "IT Infrastructure", "AI Pipelines"],
+        focus:     vec!["Backend Systems", "IT Infrastructure", "AI Tooling"],
         location:  "Nairobi, Kenya 🌍",
-        seeking:   "Rust & Systems Engineering roles",
+        seeking:   "Rust & systems engineering roles, remote-friendly",
     }
 }
 ```
@@ -33,87 +33,78 @@ fn brian() -> Engineer {
 
 ## Tech Stack
 
-**Languages**
-
+**Languages** &nbsp;
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Backend & Frameworks**
-
+**Backend** &nbsp;
 ![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Tokio](https://img.shields.io/badge/Tokio-000000?style=for-the-badge&logo=rust&logoColor=orange)
+![Actix](https://img.shields.io/badge/Actix-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLx](https://img.shields.io/badge/SQLx-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 
-**Databases**
-
+**Data** &nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Infrastructure & IT**
-
+**Infra & Ops** &nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Observability**
-
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-## Featured Projects
+## Projects
+
+<!-- These four are your real repos. Before publishing, make sure each one has a README with a one-line "what this is", a run command, and ideally a screenshot or sample output. A featured link that opens an empty repo does more harm than not featuring it. -->
 
 <table>
 <tr>
 <td width="50%">
 
-### Rust CLI Utilities
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/ThuoBrian/rust-cli-tools)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
-![Tokio](https://img.shields.io/badge/-Tokio-orange?style=flat-square)
+### Local RAG Support Chatbot
+[![Repo](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/ThuoBrian/Local-RAG-Support-Chatbot)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Extensible developer tooling built with `clap` and `tokio`. Type-safe, async-first CLI applications with a plugin architecture.
+An IT-support chatbot that answers from a local document set — no data leaves the machine. Runs on Ollama and ChromaDB behind a FastAPI web UI with streamed (SSE) responses.
 
 </td>
 <td width="50%">
 
-### AI Pipelines
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/ThuoBrian/ai-pipelines)
+### Laptop Inventory API
+[![Repo](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/ThuoBrian/Laptop_Inventory_CLI)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Embedding and inference workflows combining Rust performance with Python flexibility. 40% faster than pure-Python baselines, with Docker-packaged deployments.
+A REST API for tracking laptops and who they're assigned to, written in Rust with Actix-web and PostgreSQL.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### Infrastructure Automation
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/ThuoBrian/infra-automation)
-![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+### Log File Parser
+[![Repo](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/ThuoBrian/Log_File_Parser)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
 
-Production-ready Kubernetes and Terraform configs with GitOps via ArgoCD, zero-downtime deployments, and a full Prometheus + Grafana monitoring stack.
+A Rust utility that parses syslog files, detects errors, and reports error rates. Came out of triaging real production logs at work.
 
 </td>
 <td width="50%">
 
-### Current Focus
-![WIP](https://img.shields.io/badge/status-in_progress-F7931E?style=flat-square)
+### Community Detection on Graphs
+[![Repo](https://img.shields.io/badge/View-181717?style=flat-square&logo=github)](https://github.com/ThuoBrian/Community-Detection-Using-Graph)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
 
-- Distributed task queues in Rust
-- Lightweight vector databases for embeddings
-- Open-source developer tooling
+Builds a directed graph of usernames and finds strongly connected communities using the `petgraph` crate.
 
 </td>
 </tr>
@@ -121,44 +112,36 @@ Production-ready Kubernetes and Terraform configs with GitOps via ArgoCD, zero-d
 
 ---
 
-## GitHub Stats
+## Currently Building
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ThuoBrian&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuoBrian&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ThuoBrian&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThuoBrian&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+A persistent, distributed **task queue in Rust** — Postgres-backed, crash-recoverable, with retries and a dead-letter queue. It's my main project right now; the design notes and progress live in its repo. Next up: a small vector store for embeddings.
 
 ---
 
 ## Experience
 
-**Technology Associate** · [Innovations for Poverty Action (Kenya)](https://www.poverty-action.org/) · 2018 – Present
+**Technology Associate** · [Innovations for Poverty Action, Kenya](https://www.poverty-action.org/) · 2018 – Present
 
-- Maintain production systems serving **200+ users** across East Africa
-- Automated cloud operations, reducing deployment time by **60%**
-- Built observability pipelines with Prometheus and Grafana; cut MTTR significantly
-- Manage network infrastructure, endpoint security, and IT service delivery
+- Keep production systems running for 200+ staff across East Africa
+- Automated deployments with GitHub Actions and container workflows, cutting release time and manual steps <!-- If you have a measured figure you can defend in an interview (e.g. "from ~40 min to ~15"), state it. Otherwise leave it qualitative rather than round-numbered. -->
+- Built Prometheus and Grafana monitoring that surfaces incidents faster and shortens time-to-fix
+- Run network infrastructure, endpoint security, and day-to-day IT service delivery
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ThuoBrian&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThuoBrian&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
 
 ---
 
 <div align="center">
 
-*Open to Rust & Python backend roles and IT/infrastructure engineering positions*
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-thuo-gachau)
+*Open to Rust and Python backend roles and IT / infrastructure engineering — remote-friendly, based in Nairobi (UTC+3).*
 
 </div>
