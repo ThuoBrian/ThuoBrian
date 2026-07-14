@@ -16,8 +16,6 @@ Backend and infrastructure engineer in Nairobi, Kenya. I write Rust and Python, 
 
 I'm a Technology Associate at IPA Kenya, where I keep the infrastructure working for 200+ staff across East Africa: networks, endpoints, cloud operations, and the monitoring that tells me when something breaks. Most of my public work is where those two sides meet — backend services in Rust, and tooling for the kind of IT problems I deal with day to day.
 
-<!-- Confirm the true headcount and use one figure everywhere. The old README said 300 here and 200+ below; pick the real number. -->
-
 ```rust
 fn brian() -> Engineer {
     Engineer {
@@ -64,8 +62,6 @@ fn brian() -> Engineer {
 ---
 
 ## Projects
-
-<!-- These four are your real repos. Before publishing, make sure each one has a README with a one-line "what this is", a run command, and ideally a screenshot or sample output. A featured link that opens an empty repo does more harm than not featuring it. -->
 
 <table>
 <tr>
@@ -123,7 +119,7 @@ A persistent, distributed **task queue in Rust** — Postgres-backed, crash-reco
 **Technology Associate** · [Innovations for Poverty Action, Kenya](https://www.poverty-action.org/) · 2018 – Present
 
 - Keep production systems running for 200+ staff across East Africa
-- Automated deployments with GitHub Actions and container workflows, cutting release time and manual steps <!-- If you have a measured figure you can defend in an interview (e.g. "from ~40 min to ~15"), state it. Otherwise leave it qualitative rather than round-numbered. -->
+- Automated deployments with GitHub Actions and container workflows, cutting release time and manual steps
 - Built Prometheus and Grafana monitoring that surfaces incidents faster and shortens time-to-fix
 - Run network infrastructure, endpoint security, and day-to-day IT service delivery
 
