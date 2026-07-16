@@ -1,6 +1,6 @@
 # Brian Thuo
 
-Backend and infrastructure engineer in Nairobi, Kenya.
+Backend and infrastructure engineer · Nairobi, Kenya (UTC+3)
 
 [LinkedIn](https://www.linkedin.com/in/brian-thuo-gachau) · [Email](mailto:thuogachau@gmail.com) · [GitHub](https://github.com/ThuoBrian)
 
@@ -8,7 +8,18 @@ Backend and infrastructure engineer in Nairobi, Kenya.
 
 ## About
 
-Technology Associate at IPA Kenya, where I keep infrastructure running for 200+ staff across East Africa — networks, endpoints, cloud operations, and the monitoring that flags problems before they become incidents. Outside of that, I write backend services in Rust and Python, mostly tooling for the kind of IT problems I run into at work.
+Technology Associate at [IPA Kenya](https://www.poverty-action.org/), keeping production infrastructure running for 200+ staff across East Africa — networks, endpoints, cloud operations, and the monitoring that catches problems before they become incidents.
+
+Outside of that, I build backend systems in Rust and Python. Most of what I ship is tooling for the kind of operational problems I run into at work: parsing logs, tracking inventory, running local models on sensitive data, and moving work through queues reliably.
+
+---
+
+## Engineering Principles
+
+- **Operate by default.** Every system should be observable, recoverable, and cheap to reason about at 2 a.m.
+- **Prefer small, stateless pieces.** Complexity belongs in the problem, not in the wiring.
+- **Keep sensitive data close.** When the work involves internal docs or PII, local-first beats cloud-first.
+- **Infrastructure changes are code changes.** Versioned, reviewed, and reversible.
 
 ---
 
@@ -20,6 +31,7 @@ What I actually ship, not everything I've touched.
 - **Rust:** Actix-web, Tokio, SQLx, petgraph
 - **Python:** FastAPI, ChromaDB, Pydantic
 - **Data:** PostgreSQL
+- **Ops:** Prometheus, Grafana, GitHub Actions, Docker
 
 ---
 
@@ -27,25 +39,33 @@ What I actually ship, not everything I've touched.
 
 ### [Local RAG Support Chatbot](https://github.com/ThuoBrian/Local-RAG-Support-Chatbot)
 
-IT-support chatbot that answers from a local set of documents — nothing leaves the machine. FastAPI and ChromaDB in front of a local Ollama model.
+`FastAPI` · `ChromaDB` · `Ollama` · `Pydantic`
+
+IT-support chatbot that answers from a local document set. Designed so nothing sensitive leaves the machine: documents are chunked, embedded, and retrieved locally before being passed to a local LLM.
 
 ### [Laptop Inventory API](https://github.com/ThuoBrian/Laptop_Inventory_CLI)
 
-REST API for tracking laptops and who they're assigned to. Rust, Actix-web, PostgreSQL via SQLx.
+`Rust` · `Actix-web` · `PostgreSQL` · `SQLx` · `Docker`
+
+REST API for tracking laptops and assignments. Uses SQLx for compile-time checked queries and a small migrations setup so the schema stays reversible.
 
 ### [Log File Parser](https://github.com/ThuoBrian/Log_File_Parser)
 
-Parses syslog files, classifies severity, and reports error rates. Came out of triaging production logs at work.
+`Python` · `regex` · `CLI tooling`
+
+Parses syslog files, classifies severity, and reports error rates. Built from repeatedly triaging the same production logs at work.
 
 ### [Community Detection on Graphs](https://github.com/ThuoBrian/Community-Detection-Using-Graph)
 
-Builds a directed graph from usernames and finds strongly connected communities with Kosaraju's algorithm, using `petgraph`.
+`Rust` · `petgraph`
+
+Builds a directed graph from usernames and finds strongly connected communities with Kosaraju's algorithm.
 
 ---
 
 ## Currently Building
 
-A distributed task queue in Rust, Postgres-backed. Working through crash recovery and retry handling now; a dead-letter queue and a small embeddings store are next.
+A Postgres-backed distributed task queue in Rust. Current focus is crash recovery and retry semantics; next up are a dead-letter queue and a small local embeddings store.
 
 ---
 
@@ -53,11 +73,11 @@ A distributed task queue in Rust, Postgres-backed. Working through crash recover
 
 **Technology Associate** · [Innovations for Poverty Action, Kenya](https://www.poverty-action.org/) · 2018 – Present
 
-- Keep production systems running for 200+ staff across East Africa
-- Automated deployments with GitHub Actions and container workflows, cutting release time and manual steps
-- Built Prometheus and Grafana monitoring that surfaces incidents faster and shortens time-to-fix
-- Run network infrastructure, endpoint security, and day-to-day IT service delivery
+- Run production systems and network infrastructure for 200+ staff across East Africa.
+- Automated deployments and container workflows through GitHub Actions, reducing manual release steps.
+- Built Prometheus and Grafana monitoring to surface incidents earlier and shorten time-to-fix.
+- Own endpoint security, cloud operations, and day-to-day IT service delivery.
 
 ---
 
-Open to Rust and Python backend roles and IT/infrastructure engineering — remote-friendly, based in Nairobi (UTC+3).
+Open to senior backend and infrastructure engineering roles — remote-friendly, based in Nairobi (UTC+3).
