@@ -1,74 +1,36 @@
 # Brian Thuo
 
-Backend and infrastructure engineer · Nairobi, Kenya (UTC+3)
+Backend & infrastructure engineer · Nairobi, Kenya (UTC+3)
 
-[LinkedIn](https://www.linkedin.com/in/brian-thuo-gachau) · [Email](mailto:thuogachau@gmail.com) · [GitHub](https://github.com/ThuoBrian)
-
----
-
-## About
-
-I'm a Technology Lead at [IPA Kenya](https://www.poverty-action.org/), where I keep IT running for 200+ staff across East Africa — networks, endpoints, cloud ops, and the monitoring that (hopefully) catches things before they turn into an incident.
-
-Outside of that, I build backend systems in Rust and Python, usually to solve the same kinds of problems I hit at work: parsing logs, tracking inventory, running models locally on data that shouldn't leave the building, and moving jobs through queues without losing any. I like small, boring, reversible systems more than clever ones — boring is easier to fix at 2 a.m.
+[Email](mailto:thuogachau@gmail.com) · [GitHub](https://github.com/ThuoBrian) · [LinkedIn](https://www.linkedin.com/in/brian-thuo-gachau)
 
 ---
 
-## Tech Stack
+## What I do
 
-What I actually ship, not everything I've touched.
+I build small, boring systems that are easy to fix at 2 a.m. — because I keep IT running for 200+ staff across East Africa, and I've been paged enough to know clever doesn't survive production.
 
-- **Languages:** Rust, Python, SQL, Bash
-- **Rust:** Actix-web, Tokio, SQLx, petgraph
-- **Python:** FastAPI, ChromaDB, Pydantic
-- **Data:** PostgreSQL
-- **Ops:** Prometheus, Grafana, GitHub Actions, Docker
+Most of my code is in Rust and Python: parsers for logs I got tired of reading by hand, inventory APIs with compile-time query checks, and local RAG pipelines for data that shouldn't leave the building.
 
 ---
 
-## Projects
+## Selected work
 
-### [Local RAG Support Chatbot](https://github.com/ThuoBrian/Local-RAG-Support-Chatbot)
-
-`FastAPI` · `ChromaDB` · `Ollama` · `Pydantic`
-
-An IT-support chatbot that answers from a local document set — no data leaves the machine. Docs get chunked, embedded, and searched locally, then handed to a local LLM.
-
-### [Laptop Inventory API](https://github.com/ThuoBrian/Laptop_Inventory_CLI)
-
-`Rust` · `Actix-web` · `PostgreSQL` · `SQLx` · `Docker`
-
-A REST API for tracking laptops and who has them. Uses SQLx for compile-time checked queries, with migrations so the schema can always be rolled back.
-
-### [Log File Parser](https://github.com/ThuoBrian/Log_File_Parser)
-
-`Python` · `regex` · `CLI tooling`
-
-Parses syslog files and reports error rates by severity. Built after triaging the same production logs by hand one too many times.
-
-### [Community Detection on Graphs](https://github.com/ThuoBrian/Community-Detection-Using-Graph)
-
-`Rust` · `petgraph`
-
-Builds a graph from usernames and finds tightly-connected communities using Kosaraju's algorithm.
+| Project | Stack | Why it exists |
+|--------|-------|-------------|
+| [Local RAG Support Chatbot](https://github.com/ThuoBrian/Local-RAG-Support-Chatbot) | FastAPI, ChromaDB, Ollama, Pydantic | IT-support chatbot that answers from local docs. No external API calls. No data leaves the machine. |
+| [Laptop Inventory API](https://github.com/ThuoBrian/Laptop_Inventory_CLI) | Rust, Actix-web, PostgreSQL, SQLx, Docker | Tracks hardware assignments. SQLx gives compile-time checked queries; migrations roll back cleanly. |
+| [Log File Parser](https://github.com/ThuoBrian/Log_File_Parser) | Python, regex | Turns syslog noise into error-rate reports. Built after one too many manual triage sessions. |
+| [Community Detection](https://github.com/ThuoBrian/Community-Detection-Using-Graph) | Rust, petgraph | Finds tightly-connected user communities with Kosaraju's algorithm. |
 
 ---
 
-## Currently Building
+## Currently building
 
-A Postgres-backed task queue in Rust. Right now: crash recovery and retries. Next: a dead-letter queue and a small local embeddings store.
-
----
-
-## Experience
-
-**Technology Lead** · [Innovations for Poverty Action, Kenya](https://www.poverty-action.org/) · 2018 – Present
-
-- Keep production systems and network infrastructure running for 200+ staff across East Africa.
-- Automated deployments with GitHub Actions so releases don't need babysitting.
-- Set up Prometheus and Grafana monitoring to catch problems before people notice them.
-- Handle endpoint security, cloud operations, and day-to-day IT support.
+A Postgres-backed task queue in Rust — crash recovery, retries, and a dead-letter queue. Because reliable job handling shouldn't require a managed service.
 
 ---
 
-Open to backend and infrastructure engineering roles — remote-friendly, based in Nairobi (UTC+3).
+## Let's talk
+
+If you're hiring for backend or infrastructure roles — or just want to compare notes on Rust error handling — [send me an email](mailto:thuogachau@gmail.com). Remote-friendly, based in Nairobi (UTC+3).
