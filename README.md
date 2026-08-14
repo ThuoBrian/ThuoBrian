@@ -18,7 +18,7 @@ Most of my code is in Rust and Python: parsers for logs I got tired of reading b
 
 | Project | Stack | Why it exists |
 |--------|-------|-------------|
-| [Local RAG Support Chatbot](https://github.com/ThuoBrian/Local-RAG-Support-Chatbot) | FastAPI, ChromaDB, Ollama, Pydantic | IT-support chatbot that answers from local docs. No external API calls. No data leaves the machine. |
+| [AI-support-chatbot](https://github.com/ThuoBrian/Local-RAG-Support-Chatbot) | FastAPI, ChromaDB, Ollama, Pydantic | IT-support chatbot that answers from local docs. No external API calls. No data leaves the machine. |
 | [Laptop Inventory API](https://github.com/ThuoBrian/Laptop_Inventory_CLI) | Rust, Actix-web, PostgreSQL, SQLx, Docker | Tracks hardware assignments. SQLx gives compile-time checked queries; migrations roll back cleanly. |
 | [Log File Parser](https://github.com/ThuoBrian/Log_File_Parser) | Python, regex | Turns syslog noise into error-rate reports. Built after one too many manual triage sessions. |
 | [Community Detection](https://github.com/ThuoBrian/Community-Detection-Using-Graph) | Rust, petgraph | Finds tightly-connected user communities with Kosaraju's algorithm. |
