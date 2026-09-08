@@ -1,6 +1,6 @@
 # Brian Thuo
 
-Backend & infrastructure engineer · Nairobi, Kenya (UTC+3)
+Backend & AI engineer · Nairobi, Kenya (UTC+3)
 
 [Email](mailto:thuogachau@gmail.com) · [GitHub](https://github.com/ThuoBrian) · [LinkedIn](https://www.linkedin.com/in/brian-thuo-gachau)
 
@@ -33,4 +33,4 @@ A Postgres-backed task queue in Rust, with crash recovery, retries, and a dead-l
 
 ## Let's talk
 
-If you're hiring for backend or infrastructure roles, or just want to compare notes on Rust error handling, [send me an email](mailto:thuogachau@gmail.com). Remote-friendly, based in Nairobi (UTC+3).
+If you're hiring for backend or AI engineering roles, or just want to compare notes on Rust error handling, [send me an email](mailto:thuogachau@gmail.com). Remote-friendly, based in Nairobi (UTC+3).
