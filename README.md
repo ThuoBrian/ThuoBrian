@@ -8,7 +8,7 @@ Backend & infrastructure engineer · Nairobi, Kenya (UTC+3)
 
 ## What I do
 
-I build small, boring systems that are easy to fix at 2 a.m. — because I keep IT running for 200+ staff across East Africa, and I've been paged enough to know clever doesn't survive production.
+I build small, boring systems that are easy to fix at 2 a.m., because I keep IT running for 200+ staff across East Africa, and I've been paged enough to know clever doesn't survive production.
 
 Most of my code is in Rust and Python: parsers for logs I got tired of reading by hand, inventory APIs with compile-time query checks, and local RAG pipelines for data that shouldn't leave the building.
 
@@ -27,10 +27,10 @@ Most of my code is in Rust and Python: parsers for logs I got tired of reading b
 
 ## Currently building
 
-A Postgres-backed task queue in Rust — crash recovery, retries, and a dead-letter queue. Because reliable job handling shouldn't require a managed service.
+A Postgres-backed task queue in Rust, with crash recovery, retries, and a dead-letter queue, because reliable job handling shouldn't require a managed service.
 
 ---
 
 ## Let's talk
 
-If you're hiring for backend or infrastructure roles — or just want to compare notes on Rust error handling — [send me an email](mailto:thuogachau@gmail.com). Remote-friendly, based in Nairobi (UTC+3).
+If you're hiring for backend or infrastructure roles, or just want to compare notes on Rust error handling, [send me an email](mailto:thuogachau@gmail.com). Remote-friendly, based in Nairobi (UTC+3).
